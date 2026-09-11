@@ -10,7 +10,7 @@
   --blue:        #dcdcc9;   /* xanh rêu nhạt      */
   --blue-strong: #7f8464;   /* olive / sage       */
 
-  --bg:          #f6f0e2;   /* be nền chính       */
+  --bg:          #fbf7ec;   /* be nền chính       */
   --bg-alt:      #eee4d1;   /* be đậm hơn         */
   --text:        #3d352a;   /* nâu sẫm ấm         */
   --text-soft:   #6f6555;   /* nâu taupe          */
@@ -55,7 +55,7 @@ section { scroll-margin-top: 104px; }
   top: 0;
   z-index: 100;
   backdrop-filter: blur(10px);
-  background: rgba(246, 240, 226, 0.82);
+  background: rgba(251, 247, 236, 0.85);
   border-bottom: 1px solid rgba(90, 70, 45, 0.14);
 }
 .nav-inner {
